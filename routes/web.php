@@ -13,6 +13,8 @@ use App\Http\Controllers\ProdutosController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+// rotas web aqui
   
 
 
