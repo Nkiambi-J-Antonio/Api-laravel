@@ -14,10 +14,6 @@ use App\Http\Controllers\ProdutosController;
 |
 */
   
-Route::get('/',function(){
-     return view('welcome');
-});
-
 
 
 
